@@ -1,6 +1,4 @@
-#include <cstring>
 #include <list>
-#include <stdio.h>
 
 int main() {
 
